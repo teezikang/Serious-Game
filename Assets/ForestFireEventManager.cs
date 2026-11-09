@@ -7,7 +7,7 @@ using UnityEngine.UI;
 /// <summary>Runs the one-time forest fire and the lake-water firefighting loop.</summary>
 public class ForestFireEventManager : MonoBehaviour
 {
-    private const int StartingFireCount = 1;
+    private const int StartingFireCount = 3;
     private const int MaximumFireCount = 20;
     private const int WaterCapacity = 5;
     private const string FirePrefabResource = "ForestFire";
