@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_ToonScienceLab
+  m_Shader: {fileID: 4800000, guid: 3fb7b4abc967e124bb232607129f8b0d, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AccentEvery: 3
+    - _BaseH: 0.16
+    - _BayWidth: 1.6
+    - _CornerW: 0.14
+    - _CorniceH: 0.18
+    - _DoorHeight: 1
+    - _DoorSide: 0
+    - _DoorWidth: 1.2
+    - _FanRadius: 0.4
+    - _FanSpeed: 4
+    - _FloorHeight: 1.4
+    - _FrameW: 0.06
+    - _HazardScale: 5
+    - _LightGlow: 1.2
+    - _LightInfluence: 0.3
+    - _LightSpeed: 3
+    - _LightSteps: 2
+    - _LitAmount: 0.3
+    - _OutlineWidth: 0.04
+    - _PadLights: 12
+    - _PadRadius: 0.6
+    - _PadRotation: 0
+    - _ParapetW: 0.25
+    - _RoofTile: 1
+    - _ShadowSoftness: 0.03
+    - _SignSize: 0.4
+    - _SillH: 0.05
+    - _SlabH: 0.07
+    - _StripeW: 0.1
+    - _WinBottom: 0.24
+    - _WinHeight: 0.55
+    - _WinRound: 0.08
+    - _WinWidth: 0.62
+    - _WindowGlow: 0.6
+    m_Colors:
+    - _AccentColor: {r: 0.09999997, g: 0.62, b: 0.68, a: 1}
+    - _CornerColor: {r: 0.7, g: 0.78, b: 0.8399999, a: 1}
+    - _FanDark: {r: 0.29999998, g: 0.33999997, b: 0.39999998, a: 1}
+    - _FanLight: {r: 0.85, g: 0.88, b: 0.92, a: 1}
+    - _FrameColor: {r: 0.17999998, g: 0.27999997, b: 0.37999994, a: 1}
+    - _GlassColor: {r: 0.45, g: 0.82, b: 0.95, a: 1}
+    - _GlassDark: {r: 0.11999995, g: 0.37999994, b: 0.62, a: 1}
+    - _HazardDark: {r: 0.14999998, g: 0.14999998, b: 0.17999998, a: 1}
+    - _HazardYellow: {r: 1, g: 0.8, b: 0.09999997, a: 1}
+    - _LightOff: {r: 0.24999997, g: 0.11999995, b: 0.079999976, a: 1}
+    - _LightOn: {r: 1, g: 0.45, b: 0.14999998, a: 1}
+    - _LiquidColor: {r: 0.34999996, g: 0.95, b: 0.45, a: 1}
+    - _OutlineColor: {r: 0.09999997, g: 0.17999998, b: 0.27999997, a: 1}
+    - _PadColor: {r: 0.21999997, g: 0.24999997, b: 0.29999998, a: 1}
+    - _PadHColor: {r: 0.96999997, g: 0.96999997, b: 0.96999997, a: 1}
+    - _PadRingColor: {r: 1, g: 0.8, b: 0.09999997, a: 1}
+    - _ParapetColor: {r: 0.88, g: 0.92, b: 0.95, a: 1}
+    - _RoofColor: {r: 0.62, g: 0.65999997, b: 0.7, a: 1}
+    - _ShadowTint: {r: 0.58, g: 0.62, b: 0.82, a: 1}
+    - _SignColor: {r: 0.059999965, g: 0.27999997, b: 0.33999997, a: 1}
+    - _SillColor: {r: 0.76, g: 0.82, b: 0.88, a: 1}
+    - _SlabTint: {r: 0.82, g: 0.86, b: 0.9, a: 1}
+    - _WallColor: {r: 0.92, g: 0.95, b: 0.96999997, a: 1}
+    - _WindowLitColor: {r: 1, g: 0.88, b: 0.5, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

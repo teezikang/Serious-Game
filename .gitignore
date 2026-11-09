@@ -1,0 +1,17 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+GameSessionLogs/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Build outputs (if WebGL contains generated builds)
+# WebGL/

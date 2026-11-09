@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_ToonRockPebbleShore
+  m_Shader: {fileID: 4800000, guid: 1eb7c761612c7994798565cecfdfdd36, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _DomeSize: 0.4
+    - _FadeWidth: 1.5
+    - _Highlight: 0.5
+    - _HighlightCut: 1.05
+    - _JunctionSize: 0.2
+    - _LightSteps: 3
+    - _LightZ: 0.7
+    - _PebbleBulge: 1.4
+    - _PebbleGap: 0.1
+    - _PebbleScale: 3
+    - _RimDarken: 0.35
+    - _RimWidth: 0.15
+    - _RockBulge: 1.8
+    - _RockDensity: 0.35
+    - _RockGap: 0.12
+    - _RockScale: 0.7
+    - _RockShadow: 0.6
+    - _RockShadowWidth: 0.25
+    - _ScatterNoise: 0.5
+    - _ScatterNoiseScale: 1.2
+    - _Soft: 0.05
+    - _Space: 0
+    - _WetStrength: 0.8
+    - _WetWidth: 0.6
+    - _WetWobble: 0.4
+    m_Colors:
+    - _GapColor: {r: 0.19999996, g: 0.16999996, b: 0.15999997, a: 1}
+    - _LightDir: {r: -0.5, g: 0.6, b: 0, a: 0}
+    - _LightTint: {r: 1, g: 0.96999997, b: 0.9, a: 1}
+    - _PebbleColorA: {r: 0.62, g: 0.58, b: 0.52, a: 1}
+    - _PebbleColorB: {r: 0.78, g: 0.72, b: 0.62, a: 1}
+    - _PebbleColorC: {r: 0.45, g: 0.41999996, b: 0.41999996, a: 1}
+    - _RockColorA: {r: 0.41999996, g: 0.43999997, b: 0.47999996, a: 1}
+    - _RockColorB: {r: 0.54999995, g: 0.54999995, b: 0.56999993, a: 1}
+    - _RockColorC: {r: 0.37999994, g: 0.47999996, b: 0.37999994, a: 1}
+    - _ShadowTint: {r: 0.54999995, g: 0.52, b: 0.68, a: 1}
+    - _WaterRect: {r: 0.2, g: 0.2, b: 0.8, a: 0.8}
+    - _WetTint: {r: 0.54999995, g: 0.62, b: 0.72, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

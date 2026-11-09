@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_ToonCityGround
+  m_Shader: {fileID: 4800000, guid: 7476fbd01ada9004a9789b34d072c4ad, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Bevel: 0.12
+    - _BevelStrength: 0.5
+    - _BlotchCut1: 0.62
+    - _BlotchCut2: 0.66
+    - _BlotchScale: 0.08
+    - _LightInfluence: 0.3
+    - _Rotation: 45
+    - _ShadowSoftness: 0.03
+    - _SpeckAmount: 0.12
+    - _SpeckScale: 1.5
+    - _TileGap: 0.05
+    - _TileRound: 0.12
+    - _TileScale: 0.5
+    - _TileVariation: 0.14
+    m_Colors:
+    - _ColorA: {r: 0.6886792, g: 0.6478142, b: 0.5879761, a: 1}
+    - _ColorB: {r: 0.6132076, g: 0.52646047, b: 0.47726062, a: 1}
+    - _ColorC: {r: 0.69094473, g: 0.7924528, b: 0.6018156, a: 1}
+    - _GapColor: {r: 0.62, g: 0.52, b: 0.5, a: 1}
+    - _ShadowTint: {r: 0.62, g: 0.58, b: 0.82, a: 1}
+    - _SpeckColor: {r: 1, g: 0.95, b: 0.85, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
